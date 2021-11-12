@@ -4,7 +4,7 @@
   "display_name": "Nord Alpine Theme",
   "version": "0.0.1",
   "description": "Nord Alpine Theme for Altair GraphQL",
-  "scripts": ["theme.js"],
+  "scripts": ["src/index.js"],
   "plugin_class": "NordAlpineTheme",
   "type": "theme"
 }
