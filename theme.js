@@ -1,16 +1,16 @@
 class NordAlpineTheme {
   initialize(ctx) {
-    ctx.theme.add("NordAlpineTheme", {
+    ctx.theme.add("alpine", {
       colors: {
         primary: "#D08770",
         secondary: "#BF616A",
-        bg: "#2E3440",
-        offBg: "#3B4252",
+        bg: "#3B4252",
+        offBg: "#434C5E",
         font: "#E5E9F0",
         offFont: "#D8DEE9",
         border: "#E5E9F0",
         offBorder: "#D8DEE9",
-        headerBg: "#2E3440",
+        headerBg: "#3B4252",
       },
       shadow: {
         color: "#434C5E",
@@ -20,7 +20,7 @@ class NordAlpineTheme {
         colors: {
           comment: "#4C566A",
           string: "#A3BE8C",
-          number: "#B48EAD",
+          number: "#A3BE8C",
           variable: "#EBCB8B",
           keyword: "#B48EAD",
           atom: "#BF616A",
@@ -34,7 +34,7 @@ class NordAlpineTheme {
       },
     });
 
-    ctx.theme.enable("NordAlpineTheme", true);
+    ctx.theme.enable("alpine", true);
   }
 
   async destroy() {}
