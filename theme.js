@@ -40,4 +40,4 @@ class NordAlpineTheme {
   async destroy() {}
 }
 
-window.AltairGraphQL.plugins.NordTheme = NordAlpineTheme;
+window.AltairGraphQL.plugins.NordAlpineTheme = NordAlpineTheme;
