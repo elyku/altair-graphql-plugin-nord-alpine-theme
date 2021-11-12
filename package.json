@@ -1,11 +1,11 @@
 {
-  "name": "nord-alpine-theme",
+  "name": "altair-graphql-plugin-nord-alpine-theme",
   "version": "0.0.1",
   "description": "Nord Alpine Theme for Altair GraphQL Client.",
   "main": "theme.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elyku/nord-alpine-theme.git"
+    "url": "https://github.com/elyku/altair-graphql-plugin-nord-alpine-theme.git"
   },
   "author": "elyku",
   "license": "MIT"
