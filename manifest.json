@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "altair-graphql-plugin-nord-alpine-theme",
   "display_name": "Nord Alpine Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nord Alpine Theme for Altair GraphQL",
-  "scripts": ["src/index.js"],
-  "plugin_class": "Seriously"
+  "scripts": ["theme.js"],
+  "plugin_class": "NordAlpineTheme"
 }

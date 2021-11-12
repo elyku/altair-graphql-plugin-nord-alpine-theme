@@ -1,6 +1,6 @@
-class Seriously {
+class NordAlpineTheme {
   initialize(ctx) {
-    ctx.theme.add("Seriously", {
+    ctx.theme.add("NordAlpineTheme", {
       colors: {
         primary: "#D08770",
         secondary: "#BF616A",
@@ -34,10 +34,10 @@ class Seriously {
       },
     });
 
-    ctx.theme.enable("Seriously", true);
+    ctx.theme.enable("NordAlpineTheme", true);
   }
 
   async destroy() {}
 }
 
-window.AltairGraphQL.plugins.Seriously = Seriously;
+window.AltairGraphQL.plugins.NordAlpineTheme = NordAlpineTheme;
