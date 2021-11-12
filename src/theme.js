@@ -34,7 +34,7 @@ class Seriously {
       },
     });
 
-    ctx.theme.enable("Seriously");
+    ctx.theme.enable("Seriously", true);
   }
 
   async destroy() {}

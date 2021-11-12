@@ -5,6 +5,5 @@
   "version": "0.0.1",
   "description": "Nord Alpine Theme for Altair GraphQL",
   "scripts": ["src/index.js"],
-  "plugin_class": "Seriously",
-  "type": "theme"
+  "plugin_class": "Seriously"
 }
