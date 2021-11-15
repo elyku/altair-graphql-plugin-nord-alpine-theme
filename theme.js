@@ -33,8 +33,6 @@ class NordAlpineTheme {
         },
       },
     });
-
-    ctx.theme.enable("alpine", true);
   }
 
   async destroy() {}
